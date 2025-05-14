@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Color Changer</title>
+<style>
+body {
+   transition: background-color 2s;
+      }
+</style>
+</head>
+<body>
+
+<h1>Color Changer</h1>
+
+<label>
+  <input type="radio" name="color" onclick="document.body.style.backgroundColor = 'pink'"> pink
+  <input type="radio" name="color" onclick="document.body.style.backgroundColor = 'skyblue'"> blue
+  <input type="radio" name="color" onclick="document.body.style.backgroundColor = '#CCCCFF'"> violet
+</label>
+
+</body>
+</html>
