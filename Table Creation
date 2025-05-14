@@ -1,0 +1,23 @@
+<html>
+<head>
+    <title>Table</title>
+</head>
+
+<body>
+    <table border="2">
+        <tr>
+            <th rowspan="2" width="200" >Name of the Train</th>
+            <th rowspan="2" width="120" >place</th>
+            <th rowspan="2" width="120" >Destination</th>
+            <th rowspan="2" width="120" >Time</th>
+            <th colspan="2" width="150" >Train No</th>
+            <th colspan="2" width="150" >Fare</th>
+        </tr>
+        <tr>
+            <th>Arrival</th>
+            <th>Departure</th>
+        </tr>
+  </table>
+</body>
+</html>
+
