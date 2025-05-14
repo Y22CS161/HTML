@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Font Attributes</title>
+</head>
+
+<body>
+<p><font size="6">This is font size.</font></p>
+<p><font color="blue">This text is in blue color.</font></p>
+<p><font face="Arial">This text is in Arial font.</font></p>
+<p><font size="3" color="blue" face="Verdana">This text has multiple attributes applied.</font></p>
+<p></p>
+<p><i>This text is in italic.</i></p>
+<p><b>This text is bold.</b></p>
+<p><u>This text is underlined.</u></p>
+<p></p>
+
+</body>
+<body style="background-color: yellow; color: red;">
+<h1>Welcome to the Red Text on Yellow Background Page!</h1>
+<p>This is an example of a web page with a yellow background color and red text color.</p>
+</body>
+</html>
