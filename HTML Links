@@ -1,0 +1,15 @@
+<html>
+<body>
+<h1>HTML Links Here are my favorite sites</h1>
+<p><strong>Click a name to visit that site.</strong></p>
+<p><a href="https://www.facebook.com/">facebook!</a></p>
+<p><a href="https://www.Twitter.com/">Twitter!</a></p>
+<p><a href="https://www.google.com/">google!</a></p>
+<p><a href="https://www.rvrjc.com/">rvrjc!</a></p>
+<p><a href="https://www.instagram.com/">instagram!</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Wi-Fi">Wi-Fi!</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Local_area_network">LAN!</a></p>
+<p>RVR AND JC COLLEGE OF ENGINEERING CHANDRAMOULIPURAM CHOWDAVARAM GUNTUR</p>
+<img src="C:\Users\y22cs161\Desktop\rvrjc.jpeg"  alt="RVR&JC" width="200" height="200">
+</body>
+</html>
