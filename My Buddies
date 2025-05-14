@@ -1,0 +1,106 @@
+<html>
+<head>
+<title>
+My Buddies
+</title>
+</head>
+<body>
+<ol type="A" start="1">
+<li>Akshita</li>
+<li>Jessica</li>
+<li>Gayathri</li>
+<li>Shruthi</li>
+<li>Divya</li>
+</ol>
+<ul type="square" >
+<li>Hima</li>
+<li>Sindhu</li>
+<li>Niharika</li>
+<li>Jaya</li>
+<li>Hanvika</li>
+</ul>
+<h2>Contents of the Textbook</h2>
+<ol>
+<li>Chapter One</li>
+<ul type="square">
+<li>topic one</li>
+<ol type="a" start="1">
+<li>Sub topic one</li>
+<li>Sub topic two</li>
+<li>Sub topic three</li>
+<li>Sub topic four</li>
+<li>Sub topic five</li>
+</ol>
+<li>topic two</li>
+<ol type="a" start="1">
+<li>Sub topic one</li>
+<li>Sub topic two</li>
+<li>Sub topic three</li>
+<li>Sub topic four</li>
+<li>Sub topic five</li>
+</ol>
+<li>topic three</li>
+<ol type="a" start="1">
+<li>Sub topic one</li>
+<li>Sub topic two</li>
+<li>Sub topic three</li>
+<li>Sub topic four</li>
+<li>Sub topic five</li>
+</ol>
+</ul>
+<li>Chapter Two</li>
+<ul type="square">
+<li>topic one</li>
+<ol type="a" start="1">
+<li>Sub topic one</li>
+<li>Sub topic two</li>
+<li>Sub topic three</li>
+<li>Sub topic four</li>
+<li>Sub topic five</li>
+</ol>
+<li>topic two</li>
+<ol type="a" start="1">
+<li>Sub topic one</li>
+<li>Sub topic two</li>
+<li>Sub topic three</li>
+<li>Sub topic four</li>
+<li>Sub topic five</li>
+</ol>
+<li>topic three</li>
+<ol type="a" start="1">
+<li>Sub topic one</li>
+<li>Sub topic two</li>
+<li>Sub topic three</li>
+<li>Sub topic four</li>
+<li>Sub topic five</li>
+</ol>
+</ul><li>Chapter Three</li>
+<ul type="square">
+<li>topic one</li>
+<ol type="a" start="1">
+<li>Sub topic one</li>
+<li>Sub topic two</li>
+<li>Sub topic three</li>
+<li>Sub topic four</li>
+<li>Sub topic five</li>
+</ol>
+<li>topic two</li>
+<ol type="a" start="1">
+<li>Sub topic one</li>
+<li>Sub topic two</li>
+<li>Sub topic three</li>
+<li>Sub topic four</li>
+<li>Sub topic five</li>
+</ol>
+<li>topic three</li>
+<ol type="a" start="1">
+<li>Sub topic one</li>
+<li>Sub topic two</li>
+<li>Sub topic three</li>
+<li>Sub topic four</li>
+<li>Sub topic five</li>
+</ol>
+</ul>
+</ol>
+</body>
+</html>
